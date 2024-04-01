@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime
 
-USERNAME = "jujubee"
-TOKEN = "fkgfkfgkfkfg"
+USERNAME = #insert username here
+TOKEN = #insert token here
 GRAPH_ID = "graph1"
 
 today = datetime.now()
